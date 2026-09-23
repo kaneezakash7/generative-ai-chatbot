@@ -1,0 +1,11 @@
+[project]
+name = "generative-ai-chatbot"
+version = "0.1.0"
+description = "A Generative AI Study Assistant built with Python, Streamlit, Ollama, and Gemma 3."
+readme = "README.md"
+requires-python = ">=3.13"
+
+dependencies = [
+    "ollama>=0.6.2",
+    "streamlit>=1.64.0",
+]
