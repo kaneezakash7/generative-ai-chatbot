@@ -414,7 +414,7 @@ If Ollama and Gemma are configured correctly, the AI model should generate a res
 
 
 
-Add screenshot here.
+!\[AI Study Assistant](screenshots/chatbot-home.png)
 
 
 
@@ -422,13 +422,7 @@ Add screenshot here.
 
 
 
-Add screenshot here.
-
-
-
-\---
-
-
+!\[AI Study Assistant Conversation](screenshots/chatbot-conversation.png)
 
 \## 🔒 Privacy
 
